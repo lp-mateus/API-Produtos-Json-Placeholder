@@ -1,37 +1,39 @@
-[
-  {
-    "ID": 1,
-    "Nome": "Camiseta Básica Branca",
-    "Descrição": "Camiseta de algodão branca, confortável e estilosa.",
-    "Categoria": "Camiseta",
-    "Preço": 39.90
-  },
-  {
-    "ID": 2,
-    "Nome": "Camiseta Estampada",
-    "Descrição": "Camiseta de manga curta com estampa moderna.",
-    "Categoria": "Camiseta",
-    "Preço": 49.90
-  },
-  {
-    "ID": 3,
-    "Nome": "Camiseta Oversized Preta",
-    "Descrição": "Camiseta oversized preta com tecido premium.",
-    "Categoria": "Camiseta",
-    "Preço": 59.90
-  },
-  {
-    "ID": 4,
-    "Nome": "Camiseta Listrada",
-    "Descrição": "Camiseta listrada em algodão, ideal para um look casual.",
-    "Categoria": "Camiseta",
-    "Preço": 44.90
-  },
-  {
-    "ID": 5,
-    "Nome": "Camiseta Gola V",
-    "Descrição": "Camiseta com gola V e tecido leve.",
-    "Categoria": "Camiseta",
-    "Preço": 42.90
-  }
-]
+{
+  "products": [
+    {
+      "ID": 1,
+      "Nome": "Camiseta Básica Branca",
+      "Descrição": "Camiseta de algodão branca, confortável e estilosa.",
+      "Categoria": "Camiseta",
+      "Preço": 39.9
+    },
+    {
+      "ID": 2,
+      "Nome": "Camiseta Estampada",
+      "Descrição": "Camiseta de manga curta com estampa moderna.",
+      "Categoria": "Camiseta",
+      "Preço": 49.9
+    },
+    {
+      "ID": 3,
+      "Nome": "Camiseta Oversized Preta",
+      "Descrição": "Camiseta oversized preta com tecido premium.",
+      "Categoria": "Camiseta",
+      "Preço": 59.9
+    },
+    {
+      "ID": 4,
+      "Nome": "Camiseta Listrada",
+      "Descrição": "Camiseta listrada em algodão, ideal para um look casual.",
+      "Categoria": "Camiseta",
+      "Preço": 44.9
+    },
+    {
+      "ID": 5,
+      "Nome": "Camiseta Gola V",
+      "Descrição": "Camiseta com gola V e tecido leve.",
+      "Categoria": "Camiseta",
+      "Preço": 42.9
+    }
+  ]
+}
