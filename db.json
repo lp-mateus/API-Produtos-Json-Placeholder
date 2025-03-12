@@ -2,38 +2,185 @@
   "products": [
     {
       "ID": 1,
-      "Nome": "Camiseta Básica Branca",
-      "Descrição": "Camiseta de algodão branca, confortável e estilosa.",
+      "Nome": "Camiseta Basica Branca",
+      "Descricao": "Camiseta de algodao branca, confortavel e estilosa.",
       "Categoria": "Camiseta",
-      "Preço": 39.9
+      "Preco": 39.9
     },
     {
       "ID": 2,
       "Nome": "Camiseta Estampada",
-      "Descrição": "Camiseta de manga curta com estampa moderna.",
+      "Descricao": "Camiseta de manga curta com estampa moderna.",
       "Categoria": "Camiseta",
-      "Preço": 49.9
+      "Preco": 49.9
     },
     {
       "ID": 3,
       "Nome": "Camiseta Oversized Preta",
-      "Descrição": "Camiseta oversized preta com tecido premium.",
+      "Descricao": "Camiseta oversized preta com tecido premium.",
       "Categoria": "Camiseta",
-      "Preço": 59.9
+      "Preco": 59.9
     },
     {
       "ID": 4,
       "Nome": "Camiseta Listrada",
-      "Descrição": "Camiseta listrada em algodão, ideal para um look casual.",
+      "Descricao": "Camiseta listrada em algodao, ideal para um look casual.",
       "Categoria": "Camiseta",
-      "Preço": 44.9
+      "Preco": 44.9
     },
     {
       "ID": 5,
       "Nome": "Camiseta Gola V",
-      "Descrição": "Camiseta com gola V e tecido leve.",
+      "Descricao": "Camiseta com gola V e tecido leve.",
       "Categoria": "Camiseta",
-      "Preço": 42.9
+      "Preco": 42.9
+    },
+    {
+      "ID": 6,
+      "Nome": "Camiseta Azul Marinho",
+      "Descricao": "Camiseta azul marinho de algodao macio.",
+      "Categoria": "Camiseta",
+      "Preco": 45.9
+    },
+    {
+      "ID": 7,
+      "Nome": "Camiseta Cinza Mescla",
+      "Descricao": "Camiseta cinza mescla casual e confortavel.",
+      "Categoria": "Camiseta",
+      "Preco": 39.9
+    },
+    {
+      "ID": 8,
+      "Nome": "Camiseta Polo Preta",
+      "Descricao": "Camiseta polo preta com detalhes discretos.",
+      "Categoria": "Camiseta",
+      "Preco": 55.9
+    },
+    {
+      "ID": 9,
+      "Nome": "Camiseta Manga Longa",
+      "Descricao": "Camiseta manga longa para dias mais frios.",
+      "Categoria": "Camiseta",
+      "Preco": 59.9
+    },
+    {
+      "ID": 10,
+      "Nome": "Camiseta Amarela Vibrante",
+      "Descricao": "Camiseta amarela vibrante, perfeita para o verao.",
+      "Categoria": "Camiseta",
+      "Preco": 39.9
+    },
+    {
+      "ID": 11,
+      "Nome": "Camiseta Verde Militar",
+      "Descricao": "Camiseta verde militar, resistente e estilosa.",
+      "Categoria": "Camiseta",
+      "Preco": 44.9
+    },
+    {
+      "ID": 12,
+      "Nome": "Camiseta Slim Fit",
+      "Descricao": "Camiseta slim fit que valoriza o corpo.",
+      "Categoria": "Camiseta",
+      "Preco": 49.9
+    },
+    {
+      "ID": 13,
+      "Nome": "Camiseta Bordo",
+      "Descricao": "Camiseta bordo em tecido macio e confortavel.",
+      "Categoria": "Camiseta",
+      "Preco": 42.9
+    },
+    {
+      "ID": 14,
+      "Nome": "Camiseta Grafite",
+      "Descricao": "Camiseta grafite de alta durabilidade.",
+      "Categoria": "Camiseta",
+      "Preco": 45.9
+    },
+    {
+      "ID": 15,
+      "Nome": "Camiseta Com Bolso",
+      "Descricao": "Camiseta basica com bolso funcional.",
+      "Categoria": "Camiseta",
+      "Preco": 41.9
+    },
+    {
+      "ID": 16,
+      "Nome": "Camiseta Marrom",
+      "Descricao": "Camiseta marrom classica para qualquer ocasiao.",
+      "Categoria": "Camiseta",
+      "Preco": 39.9
+    },
+    {
+      "ID": 17,
+      "Nome": "Camiseta Baby Look",
+      "Descricao": "Camiseta baby look para um caimento perfeito.",
+      "Categoria": "Camiseta",
+      "Preco": 46.9
+    },
+    {
+      "ID": 18,
+      "Nome": "Camiseta Retro",
+      "Descricao": "Camiseta com design retro exclusivo.",
+      "Categoria": "Camiseta",
+      "Preco": 54.9
+    },
+    {
+      "ID": 19,
+      "Nome": "Camiseta Vinho",
+      "Descricao": "Camiseta vinho de algodao premium.",
+      "Categoria": "Camiseta",
+      "Preco": 47.9
+    },
+    {
+      "ID": 20,
+      "Nome": "Camiseta Colorida",
+      "Descricao": "Camiseta colorida para um look divertido.",
+      "Categoria": "Camiseta",
+      "Preco": 42.9
+    },
+    {
+      "ID": 21,
+      "Nome": "Camiseta de Linho",
+      "Descricao": "Camiseta feita de linho leve e confortavel.",
+      "Categoria": "Camiseta",
+      "Preco": 59.9
+    },
+    {
+      "ID": 22,
+      "Nome": "Camiseta Premium",
+      "Descricao": "Camiseta premium com acabamentos refinados.",
+      "Categoria": "Camiseta",
+      "Preco": 69.9
+    },
+    {
+      "ID": 23,
+      "Nome": "Camiseta Bege",
+      "Descricao": "Camiseta bege versatil para combinar com tudo.",
+      "Categoria": "Camiseta",
+      "Preco": 38.9
+    },
+    {
+      "ID": 24,
+      "Nome": "Camiseta Flanelada",
+      "Descricao": "Camiseta flanelada para maior aquecimento.",
+      "Categoria": "Camiseta",
+      "Preco": 49.9
+    },
+    {
+      "ID": 25,
+      "Nome": "Camiseta Sport",
+      "Descricao": "Camiseta ideal para praticas esportivas.",
+      "Categoria": "Camiseta",
+      "Preco": 52.9
+    },
+    {
+      "ID": 26,
+      "Nome": "Camiseta Social",
+      "Descricao": "Camiseta social com acabamento elegante.",
+      "Categoria": "Camiseta",
+      "Preco": 65.9
     }
   ]
 }
